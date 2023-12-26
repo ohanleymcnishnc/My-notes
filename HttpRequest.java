@@ -12,7 +12,7 @@ import java.util.Map;
 /**
  * 请求对象包装类
  * @author Zhao Xiaolei
- *
+ * @version 1.0
  */
 public class HttpRequest {
 	
